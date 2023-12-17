@@ -6,5 +6,3 @@
 - In the current task list, we can mark the task as completed and/or delete it.
 
 https://lukaszwywiol.github.io/To-do_list/
-
-![screenshot] (image/to-do_list.png)
